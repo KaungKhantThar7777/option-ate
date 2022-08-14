@@ -4,6 +4,8 @@ Production: https://admirable-sfogliatella-0287f9.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://api.outsidein.dev/YOUR-API-KEY/restaurants
+
 ## Available Scripts
 
 In the project directory, you can run:
